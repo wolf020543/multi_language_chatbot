@@ -13,7 +13,7 @@ class Kukibot {
         kuki_owner = options.owner;
 
     }
-
+                          
   async moe(message) {
 
     if(!message) {
